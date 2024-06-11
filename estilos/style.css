@@ -8,10 +8,13 @@ body {
     background-color: rgb(90, 19, 19);
 
 }
+img.lado {
+    float: right;
+}
 
 main {
     background-color: blanchedalmond;
-    width: 500px;
+    width: 580px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
